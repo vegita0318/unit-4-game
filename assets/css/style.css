@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/green_honeycomb.png");
+
+}
+
+#headerfontcontrol {
+    background: orange;
+    color: white;
+    
+}
+
+#instructionfontcontrol {
+    background: peachpuff;
+    color: green;
+}
+
+#randomfontcontrol {
+    background: green;
+    color: black;
+}
+#scorebofontcontrol {
+    background: skyblue;
+    color: black;
+}
+#totalfontcontrol {
+    background: teal;
+    color: white;
+}
